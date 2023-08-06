@@ -1,0 +1,27 @@
+.headerWrapper {
+  height: 100vh;
+  position: relative;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUbQo0KMhNJvhx3KPTKEvSIspNDbCxwAtwdSlSy92Q9NEStiDJjUhTNIJkfkUSud7b6M&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerWrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(14, 14, 14, 0.582);
+}
+
+.headerContainer {
+  text-align: center;
+  color: #fff;
+}
