@@ -1,7 +1,7 @@
 .headerWrapper {
   height: 100vh;
   position: relative;
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfUbQo0KMhNJvhx3KPTKEvSIspNDbCxwAtwdSlSy92Q9NEStiDJjUhTNIJkfkUSud7b6M&usqp=CAU");
+  background-image: url("https://www.nativeplanet.com/img/2023/05/nellore1-1685093547.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -18,7 +18,7 @@
   left: 0;
   height: 100vh;
   width: 100vw;
-  background-color: rgba(14, 14, 14, 0.582);
+  background-color: rgba(14, 14, 14, 0.651);
 }
 
 .headerContainer {

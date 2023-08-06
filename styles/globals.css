@@ -15,6 +15,17 @@ body {
   padding: 0;
   overflow-x: hidden;
   font-family: "Nunito", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body::-webkit-scrollbar {
+  width: 10px; /* Adjust the width as per your preference */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #141414da; /* Change the color as per your preference */
+}
+body::-moz-scrollbar-thumb {
+  background-color: #141414da; /* Change the color as per your preference */
 }
 
 ul li {

@@ -1,30 +1,39 @@
 export const navLinks = [
   {
     name: "home",
+    path: "/",
   },
   {
     name: "call for papers",
+    path: "call-for-papers",
   },
   {
     name: "committees",
+    path: "committees",
   },
   {
     name: "registration",
+    path: "registration",
   },
   {
     name: "publication",
+    path: "publication",
   },
   {
     name: "sponsors",
+    path: "sponsors",
   },
   {
     name: "workshops",
+    path: "workshops",
   },
   {
     name: "archives",
+    path: "archives",
   },
   {
     name: "contact",
+    path: "contact",
   },
 ];
 

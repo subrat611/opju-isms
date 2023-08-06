@@ -43,7 +43,7 @@ const Navbar = () => {
                 <Link
                   className="nav-link active text-capitalize text-light fw-semibold"
                   aria-current="page"
-                  href="#"
+                  href={link.path}
                 >
                   {link.name}
                 </Link>
