@@ -5,35 +5,35 @@ export const navLinks = [
   },
   {
     name: "call for papers",
-    path: "call-for-papers",
+    path: "/call-for-papers",
   },
   {
     name: "committees",
-    path: "committees",
+    path: "/committees",
   },
   {
     name: "registration",
-    path: "registration",
+    path: "/registration",
   },
   {
     name: "publication",
-    path: "publication",
+    path: "/publication",
   },
   {
     name: "sponsors",
-    path: "sponsors",
+    path: "/sponsors",
   },
   {
     name: "workshops",
-    path: "workshops",
+    path: "/workshops",
   },
   {
     name: "archives",
-    path: "archives",
+    path: "/archives",
   },
   {
     name: "contact",
-    path: "contact",
+    path: "/contact",
   },
 ];
 
@@ -79,6 +79,52 @@ export const confTracks = [
       "Biologically Inspired Information Systems",
       "Real world applications, Explainable Information Systems",
       "Teaching practices in Information Systems",
+    ],
+  },
+];
+
+export const committees = [
+  {
+    title: "Honorary Chairs",
+    persons: [
+      {
+        name: "Prof. Frank Lin",
+        place: "CSUSB, USA",
+      },
+      {
+        name: "Prof. Ing. Carl James Debono",
+        place:
+          "Dean, Faculty of Information and Communication Technology, University of Malta, Malta",
+      },
+    ],
+  },
+  {
+    title: "Organizing Chairs",
+    persons: [
+      {
+        name: "Dr. Lalit Garg",
+        place:
+          "Faculty of Information and Communication Technology, University of Malta, Malta",
+      },
+      {
+        name: "Prof Haiming Liu",
+        place:
+          "School of Electronics and Computer Science, University of Southampton, UK",
+      },
+    ],
+  },
+  {
+    title: "Program Chairs",
+    persons: [
+      {
+        name: "Prof. Ernest Cachia",
+        place: "HoD, Computer Information Systems, University of Malta, Malta",
+      },
+      {
+        name: "Prof Ram Bilas Pachori",
+        place:
+          "Professor, Department of Electrical Engineering, IIT Indore, Simrol, Indore, 453552, India",
+      },
     ],
   },
 ];
