@@ -141,9 +141,37 @@ export const committees = [
         place: "CSUSB, USA",
       },
       {
+        name: "Mrs. Shallu Jindal",
+        place: "Chancellor, OP Jindal University, Raigarh, India",
+      },
+      {
         name: "Prof. Ing. Carl James Debono",
         place:
           "Dean, Faculty of Information and Communication Technology, University of Malta, Malta",
+      },
+      {
+        name: "Prof. Sally McClean",
+        place:
+          "School of Computing & Inf. Engineering, University of Ulster, Northern Ireland, UK",
+      },
+      {
+        name: "Prof. Frank Bezzina",
+        place:
+          "Pro-Rector, International Development & Quality Assurance, University of Malta, Malta",
+      },
+    ],
+  },
+  {
+    title: "General Chairs",
+    persons: [
+      {
+        name: "Dr. R.D. Patidar",
+        place: "Vice-Chancellor, OP Jindal University, Raigarh, India",
+      },
+      {
+        name: "Dr. Lalit Garg",
+        place:
+          "Faculty of Information and Communication Technology, University of Malta, Malta",
       },
     ],
   },
@@ -151,14 +179,24 @@ export const committees = [
     title: "Organizing Chairs",
     persons: [
       {
-        name: "Dr. Lalit Garg",
-        place:
-          "Faculty of Information and Communication Technology, University of Malta, Malta",
+        name: "Dr. Dilip Singh Sisodia",
+        place: "National Institute of Technology Raipur, India",
       },
       {
-        name: "Prof Haiming Liu",
-        place:
-          "School of Electronics and Computer Science, University of Southampton, UK",
+        name: "Dr. Bhupesh Kr. Dewangan",
+        place: "O. P. Jindal University, Raigarh, India",
+      },
+      {
+        name: "Dr. R N Shukla",
+        place: "O. P. Jindal University, Raigarh, India",
+      },
+      {
+        name: "Dr Rakesh Nayak",
+        place: "O. P. Jindal University, Raigarh, India",
+      },
+      {
+        name: "Prof. Imene Brigui",
+        place: "Emlyon Business School, Écully, France",
       },
     ],
   },
@@ -166,13 +204,314 @@ export const committees = [
     title: "Program Chairs",
     persons: [
       {
-        name: "Prof. Ernest Cachia",
-        place: "HoD, Computer Information Systems, University of Malta, Malta",
+        name: "Dr. Siddharth Chakraborty",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Amit Jain",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Prof Haiming Liu",
+        place:
+          "School of Electronics and Computer Science, University of Southampton, UK",
       },
       {
         name: "Prof Ram Bilas Pachori",
         place:
-          "Professor, Department of Electrical Engineering, IIT Indore, Simrol, Indore, 453552, India",
+          "Professor, Department of Electrical Engineering, IIT Indore, India",
+      },
+      {
+        name: "Prof. Ernest Cachia",
+        place: "HoD, Computer Information Systems, University of Malta, Malta",
+      },
+      {
+        name: "Prof. Sanjay Misra",
+        place: "Ostfold University College, Halden, Norway",
+      },
+    ],
+  },
+  {
+    title: "Publication Chairs",
+    persons: [
+      {
+        name: "Dr Nishtha Kesswani",
+        place: "CURAJ, India",
+      },
+      {
+        name: "Dr. Ashish K Sharma",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Peter A. Xuereb",
+        place:
+          "Faculty of Information and Communication Technology, University of Malta, Malta",
+      },
+    ],
+  },
+  {
+    title: "Publicity Chairs",
+    persons: [
+      {
+        name: "Dr Deepak Singh",
+        place:
+          "Department of Computer Science and Engineering, National Institute of Technology Raipur, India",
+      },
+      {
+        name: "Dr. Sanjay Singh",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Bhawna Chahar",
+        place:
+          "Associate Professor, School of Business & Commerce, Manipal University Jaipur, Jaipur, Rajasthan, India",
+      },
+      {
+        name: "Dr Megha Bhushan",
+        place: "DIT UNIVERSITY, Dehradun, Uttarakhand, India",
+      },
+      {
+        name: "Mr. Anup Bharti",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+    ],
+  },
+  {
+    title: "Technical Chairs",
+    persons: [
+      {
+        name: "Prof. P K Mishra",
+        place: "Banaras Hindu University, India",
+      },
+      {
+        name: "Dr. Joseph Vella",
+        place:
+          "Faculty of Information and Communication Technology, University of Malta, Malta",
+      },
+      {
+        name: "Dr. Jun Dai",
+        place: "California State University, Sacramento, USA",
+      },
+      {
+        name: "Prof Debnath Bhattacharyya",
+        place: "K L University, Guntur, India",
+      },
+      {
+        name: "Dr Suyel Namasudra",
+        place: "National Institute of Technology, Patna, India",
+      },
+      {
+        name: "Dr. Arti vaish",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Abhilasha Choudhari",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Saroj Chandra",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Umashankar Ghugar",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+      {
+        name: "Dr. Asim Kiran Dandapat",
+        place: "O. P. Jindal University, 496001 Raigarh, India",
+      },
+    ],
+  },
+  {
+    title: "International Technical Committee",
+    persons: [
+      {
+        name: "Prof. Fabio Cuzzolin",
+        place: "Oxford Brookes University, UK",
+      },
+      {
+        name: "Prof. Martine De Cook",
+        place: "University of Washington, USA",
+      },
+      {
+        name: "Prof. Miquel Noguer i Alonso",
+        place: "New York University, USA",
+      },
+      {
+        name: "Dr. Salem Chakhar",
+        place: "University of Portsmouth, UK",
+      },
+      {
+        name: "Prof. Simon James",
+        place: "Deakin University, Australia",
+      },
+      {
+        name: "Prof. Edy Portman",
+        place: "University of Fribourg, Switzerland",
+      },
+      {
+        name: "Prof. Vaneet Aggarwal",
+        place: "Purdue University, USA",
+      },
+      {
+        name: "Prof. Xing Wu",
+        place: "Shanghai University, China",
+      },
+      {
+        name: "Dr. Alessio Petruzzello",
+        place: "Expedia, UK",
+      },
+      {
+        name: "Prof. Anca Ralescu",
+        place: "University of Cincinnati, USA",
+      },
+      {
+        name: "Prof. Susanna Montes",
+        place: "University of Oviedo, Spain",
+      },
+      {
+        name: "Prof. Atsushi Inoue",
+        place: "Eastern Washington University, USA",
+      },
+      {
+        name: "Prof. Chinthaka Premachandra",
+        place: "Shibaura Institute of Technology, Japan",
+      },
+      {
+        name: "Prof. Roy Sigumura",
+        place: "AIST, Japan",
+      },
+      {
+        name: "Prof. Young Im Cho",
+        place: "Gachon University, Korea",
+      },
+      {
+        name: "Dr. Efrat Hexter",
+        place: "IBM Research, Israel",
+      },
+      {
+        name: "Prof. Ahmed F. Zobaa",
+        place: "Brunel University, UK",
+      },
+      {
+        name: "Prof. Gianluca Bontempi",
+        place: "Université Libre de Bruxelles, Belgium",
+      },
+      {
+        name: "Prof. Ragib Hasan",
+        place: "University of Alabama at Birmingham, USA",
+      },
+      {
+        name: "Prof. Yun Tian",
+        place: "California State University, Fullerton, USA",
+      },
+      {
+        name: "Prof. Kevin Yuen",
+        place: "Singapore University of Social Sciences, Singapore",
+      },
+      {
+        name: "Prof. Siham Tabik",
+        place: "University of Granada, Spain",
+      },
+      {
+        name: "Prof. Isaac Triguero",
+        place: "University of Nottingham, UK",
+      },
+      {
+        name: "Prof. Hamid Ali Abed AL-Asadi",
+        place: "Basra University, Iraq",
+      },
+      {
+        name: "Prof. Sami Bedra",
+        place: "Université Abbes Laghrour-Khenchela, Algeria",
+      },
+      {
+        name: "Prof. Khashayar Yazdani",
+        place: "University of Science and Technology, Malaysia",
+      },
+      {
+        name: "Prof. Fareeda Khodabocus",
+        place: "University of Mauritius, Mauritius",
+      },
+      {
+        name: "Prof. Shailen Gungah",
+        place: "University of Mauritius, Mauritius",
+      },
+      {
+        name: "Prof. LO Man-fung",
+        place: "Hong Kong Polytechnic University, Hong Kong",
+      },
+      {
+        name: "Prof. Rong Zhang",
+        place: "Nishinippon Institute of Technology, Japan",
+      },
+      {
+        name: "Prof. Mohammed Abdulaziz A. AlAqil",
+        place: "University of Manchester, UK",
+      },
+      {
+        name: "Ms. Angie Cox",
+        place: "U.S Air force Institute of Technology, Ohio, USA",
+      },
+      {
+        name: "Prof. John Martin",
+        place: "Jazan University, KSA",
+      },
+      {
+        name: "Dr. Haider Abbas",
+        place: "National IT Board, Pakistan",
+      },
+      {
+        name: "Prof. Mohammad Farid",
+        place: "University of Auckland, NL",
+      },
+      {
+        name: "Prof. Pramod Mishra",
+        place: "Banaras Hindu University, India",
+      },
+      {
+        name: "Prof. Doaa Wafik",
+        place: "BUC University, Egypt",
+      },
+      {
+        name: "Prof. Alboaie Lenuta",
+        place: "Alexandru Ioan Cuza University of Iasi, Romania",
+      },
+      {
+        name: "Prof. Sugata Sanyal",
+        place: "IIT Guwahati, India",
+      },
+      {
+        name: "Rabel GuhaRoy",
+        place:
+          "Bharati Vidyapeeth University, DET, Kharghar, Navi Mumbai, India",
+      },
+      {
+        name: "Dr Vipul Gupta",
+        place:
+          "HoD, Associate Professor, Operations Management and Information System, LM Thapar School of Management, Derabassi, Punjab, India",
+      },
+      {
+        name: "Dr Shahbaz Ahmed Siddiqui",
+        place: "Manipal University Jaipur, India",
+      },
+      {
+        name: "Dr Santosh Patil",
+        place: "Manipal University Jaipur, India",
+      },
+      {
+        name: "Dr Princy Randhawa",
+        place: "Manipal University Jaipur, India",
+      },
+      {
+        name: "Dr K. B. Ramesh",
+        place:
+          "R V College of Engineering, Mysuru Road, Bengaluru, Karnataka, India",
+      },
+      {
+        name: "Dr. Gayatri S Mirajkar",
+        place:
+          "Professor, Arvind Gavali College of Engineering, Satara, Maharashtra, India",
       },
     ],
   },
