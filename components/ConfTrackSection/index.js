@@ -19,6 +19,18 @@ const ConfTrackSection = () => {
           </ul>
         </div>
       ))}
+      <div>
+        <h3 className="text-center my-4">Indexing</h3>
+        <p>
+          Post-conference, proceedings will be made available to the following
+          indexing services for possible inclusion: DBLP | INSPEC | SCImago |
+          SCOPUS | Google Scholar <br />
+          <br />
+          Depending on the focus of the particular indexing services, they may
+          decide to include or not. If included one can expect it in 12-18
+          months. DBLP and Google Scholar are fast.
+        </p>
+      </div>
     </div>
   );
 };
