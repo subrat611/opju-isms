@@ -29,7 +29,7 @@ const Committees = () => {
           ))}
         </div>
       </div>
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 };

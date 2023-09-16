@@ -23,10 +23,10 @@ export const navLinks = [
     name: "sponsors",
     path: "/sponsors",
   },
-  {
-    name: "workshops",
-    path: "/workshops",
-  },
+  // {
+  //   name: "workshops",
+  //   path: "/workshops",
+  // },
   {
     name: "archives",
     path: "/archives",

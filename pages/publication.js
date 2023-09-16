@@ -35,7 +35,7 @@ const Publication = () => {
             that the manuscripts would undergo to ultimately assess their
             contribution towards the special issues:
           </p>
-          <p className="mt-3">The ISMS 2022 organizers have no role.</p>
+          <p className="mt-3">The ISMS 2023 organizers have no role. .</p>
         </div>
       </div>
     </>
