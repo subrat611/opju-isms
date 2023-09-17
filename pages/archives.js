@@ -81,7 +81,7 @@ const Archives = () => {
               <br />
               <br />
               Pls visit{" "}
-              <a href="https://www.ssrn.com/index.cfm/en/isn/ads/02052020ann004/">
+              <a href="https://www.ssrn.com/index.cfm/en/isn/ads/02052020ann004/" className="text-break">
                 https://www.ssrn.com/index.cfm/en/isn/ads/02052020ann004/
               </a>
               <br />

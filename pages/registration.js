@@ -15,7 +15,7 @@ const Registration = () => {
       </Head>
       <Navbar />
       <div>
-        <div className="container mt-5 pt-5">
+        <div className="container my-5 pt-5">
           <h2 className="fw-semibold text-center">Registration</h2>
           <table className="table table-bordered mt-5">
             <thead>
