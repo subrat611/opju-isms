@@ -43,7 +43,7 @@ const CallForPapers = () => {
             ISMS 2023 aims to provide a forum for researchers from both academia
             and industry to share their latest research contributions, future
             vision in the field and potential impact across industries of
-            information systems and management sciences. Join us, 18-19 December
+            information systems and management sciences. Join us, 23-24 December
             2023, to explore discovery, progress, and achievements related to
             various information systems and management sciences. This conference
             is basically focused on advanced automation, computational
