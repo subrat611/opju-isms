@@ -11,6 +11,22 @@
   align-items: center;
 }
 
+.headerTextOne {
+  font-size: 2rem;
+}
+.headerTextTwo {
+  font-size: 1.5rem;
+}
+.headerTextThree {
+  font-size: 1.3rem;
+}
+.headerTextFour {
+  font-size: 1.5rem;
+}
+.headerTextFive {
+  font-size: 1.5rem;
+}
+
 .headerWrapper::before {
   content: "";
   position: absolute;
@@ -24,4 +40,26 @@
 .headerContainer {
   text-align: center;
   color: #fff;
+}
+
+@media all and (max-width: 534px) {
+  .headerTextOne {
+    font-size: 1.2rem;
+  }
+  .headerTextTwo {
+    font-size: 1rem;
+  }
+  .headerTextThree {
+    font-size: 1rem;
+  }
+  .headerTextFour {
+    font-size: 1.1rem;
+  }
+  .headerTextFive {
+    font-size: 1rem;
+  }
+  .headerBottomImage {
+    width: 170px;
+    height: 110px;
+  }
 }

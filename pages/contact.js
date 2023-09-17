@@ -21,7 +21,7 @@ const Contact = () => {
           </a>
         </p>
         <p>
-          onference Venue/Host Institute**: OP Jindal University, Raigarh,
+          Conference Venue/Host Institute**: OP Jindal University, Raigarh,
           India, and University of Malta, Msida, Malta
         </p>
       </div>

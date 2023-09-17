@@ -56,7 +56,7 @@ export const impDates = [
   },
   {
     name: "Conference",
-    date: "December 18-19, 2023",
+    date: "December 23-24, 2023",
   },
 ];
 
@@ -317,7 +317,7 @@ export const committees = [
         place: "O. P. Jindal University, 496001 Raigarh, India",
       },
       {
-        name: "Dr. Asim Kiran Dandapat",
+        name: "Prof. Asim Kiran Dandapat",
         place: "O. P. Jindal University, 496001 Raigarh, India",
       },
     ],
