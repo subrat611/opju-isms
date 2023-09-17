@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="container-fluid z-1 navbar navbar-expand-lg position-fixed top-0 start-0 bg-dark py-3 z-2">
       <div className="container-fluid">
         <Link className="navbar-brand text-light fw-bolder" href="/">
-          OPJU-ISMS-2022
+          ISMS 2023
         </Link>
         <button
           className={`navbar-toggler outline-none ${styles.navHamburger}`}
