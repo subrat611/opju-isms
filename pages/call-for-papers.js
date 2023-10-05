@@ -114,8 +114,13 @@ const CallForPapers = () => {
             paper, if accepted.
           </p>
           <p className="text-primary text-center">
-            The ONLINE submission site is <br />
-            Springer OCS <br /> Click here, to submit.
+            <a
+              href="https://equinocs.springernature.com/service/ISMS2023"
+              target="_blank"
+            >
+              The ONLINE submission site is <br />
+              Springer OCS <br /> Click here, to submit.
+            </a>
           </p>
         </div>
         <div>

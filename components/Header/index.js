@@ -25,7 +25,7 @@ const Header = () => {
           published in <span className="text-warning">SCOPUS</span>
           indexed <span className="text-warning">SPRINGER LNNS</span>.
         </h7>
-        <div className="mt-md-5 mt-2">
+        <div className="mt-md-5 mt-2 mb-2">
           <Image
             className={`bg-white p-2 rounded ${styles.headerBottomImage}`}
             src="/image7.png"
@@ -34,6 +34,15 @@ const Header = () => {
           />
         </div>
       </div>
+      <button type="button" class="btn btn-primary z-3">
+        <a
+          className="text-light text-uppercase fw-semibold"
+          href="https://equinocs.springernature.com/service/ISMS2023"
+          target="_blank"
+        >
+          Submit your paper
+        </a>
+      </button>
     </header>
   );
 };
