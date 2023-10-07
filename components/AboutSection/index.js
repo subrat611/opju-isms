@@ -1,18 +1,16 @@
-import Image from "next/image";
-
 const AboutSection = () => {
   return (
     <section className="container mt-2">
       <div className="d-flex justify-content-around align-items-center flex-wrap">
-        <Image src="/image3.png" width="230" height="230" />
-        <Image src="/image2.png" width="270" height="100" />
+        <img src="/image3.png" width="230" height="230" />
+        <img src="/image2.png" width="270" height="100" />
       </div>
       <div className="my-5">
         <h2 className="my-3">Technical Sponsored by</h2>
         <div className="d-flex justify-content-around align-items-center flex-wrap row-gap-3">
-          <Image src="/image5.png" width="250" height="100" />
-          <Image src="/image4.png" width="240" height="100" />
-          <Image src="/image1.png" width="120" height="100" />
+          <img src="/image5.png" width="250" height="100" />
+          <img src="/image4.png" width="240" height="100" />
+          <img src="/image1.png" width="120" height="100" />
         </div>
       </div>
       <h2 className="my-3">About the Conference</h2>

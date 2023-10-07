@@ -1,7 +1,6 @@
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
 import Head from "next/head";
-import Image from "next/image";
 
 const Sponsors = () => {
   return (
@@ -17,13 +16,13 @@ const Sponsors = () => {
         <p>ISMS 2022 is technically and financially sponsored/promoted by:</p>
         <div className="mb-5">
           <div className="d-flex justify-content-around align-items-center flex-wrap">
-            <Image src="/image3.png" width="230" height="230" />
-            <Image src="/image2.png" width="270" height="100" />
+            <img src="/image3.png" width="230" height="230" />
+            <img src="/image2.png" width="270" height="100" />
           </div>
           <div className="d-flex justify-content-around align-items-center flex-wrap row-gap-3">
-            <Image src="/image5.png" width="250" height="100" />
-            <Image src="/image4.png" width="240" height="100" />
-            <Image src="/image1.png" width="120" height="100" />
+            <img src="/image5.png" width="250" height="100" />
+            <img src="/image4.png" width="240" height="100" />
+            <img src="/image1.png" width="120" height="100" />
           </div>
         </div>
         <p>

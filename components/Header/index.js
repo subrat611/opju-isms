@@ -1,4 +1,3 @@
-import Image from "next/image";
 import styles from "./style.module.css";
 
 const Header = () => {
@@ -26,7 +25,7 @@ const Header = () => {
           indexed <span className="text-warning">SPRINGER LNNS</span>.
         </h7>
         <div className="mt-md-5 mt-2 mb-2">
-          <Image
+          <img
             className={`bg-white p-2 rounded ${styles.headerBottomImage}`}
             src="/image7.png"
             width="200"
