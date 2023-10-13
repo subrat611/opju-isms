@@ -9,7 +9,7 @@ const Header = () => {
           Management Science (ISMS 2023)
         </p>
         <p className={`my-3 fw-bolder ${styles.headerTextTwo}`}>
-          2023, 23-24 December 2023, Raipur, India
+          23-24 December 2023, Raipur, India
         </p>
         <p className={`fw-semibold ${styles.headerTextThree}`}>
           Jointly organized by

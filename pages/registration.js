@@ -34,17 +34,17 @@ const Registration = () => {
               </tr>
               <tr>
                 <td>Research Scholars (UG / PG / PhD)</td>
-                <td>7000</td>
+                <td>6000</td>
                 <td>95</td>
               </tr>
               <tr>
                 <td>Academicians / Researchers</td>
-                <td>8000</td>
+                <td>7000</td>
                 <td>105</td>
               </tr>
               <tr>
                 <td>Industry Persons</td>
-                <td>10000</td>
+                <td>8000</td>
                 <td>120</td>
               </tr>
               <tr>
