@@ -3,6 +3,7 @@ import Navbar from "@/components/Navbar";
 import Head from "next/head";
 
 import styles from "@/styles/style.module.css";
+import { AcceptedPapersList } from "@/utils/constants";
 
 const Registration = () => {
   return (
@@ -66,6 +67,33 @@ const Registration = () => {
           </div>
         </div>
         {/* <Footer /> */}
+        <div className="container mb-5">
+          <h2 className="fw-semibold text-center">List of accepted papers</h2>
+          <table className="table table-bordered mt-5">
+            <thead>
+              <tr>
+                <th scope="col" className="text-center">
+                  Title
+                </th>
+                <th scope="col" colSpan="2" className="text-center">
+                  Authors
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              {AcceptedPapersList.map((item) => (
+                <tr key={item.ID}>
+                  <th scope="row" className="fw-normal">
+                    {item.Title}
+                  </th>
+                  <th scope="row" className="fw-normal">
+                    {item.Authors}
+                  </th>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   );

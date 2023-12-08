@@ -516,3 +516,718 @@ export const committees = [
     ],
   },
 ];
+
+export const AcceptedPapersList = [
+  {
+    ID: "001",
+    Title: "Power Ballot: Exploiting Blockchain Technology",
+    Authors: "Vijaya Pinjarkar",
+  },
+  {
+    ID: "003",
+    Title:
+      "Identifying Strikeouts and Predicting Synonym Words for Kannada Handwritten Documents",
+    Authors: "Bhargav H K",
+  },
+  {
+    ID: "009",
+    Title:
+      "Enhancing Fruit Recognition with YOLO v7: A Comparative Analysis Against YOLO v4",
+    Authors:
+      "Anand Pandey, Shivansh  Kumar , Aaryansh  Verma  , Tanupriya Choudhury, Jagdish Chandra Patni",
+  },
+  {
+    ID: "013",
+    Title:
+      "Application of Convolutional Neural Networks and Vision Transformer Models for Age and Gender Detection",
+    Authors:
+      "Abidemi Emmanuel  ADENIYI, Biswajit  BRAHMA, Joseph Bamidele AWOTUNDE, Halleluyah Oluwatobi  AWORINDE, Hemanta Kumar  Bhuyan",
+  },
+  {
+    ID: "015",
+    Title:
+      "A New Secure and Robust Watermarking Using Entropy & Hybrid Scrambling Approach",
+    Authors: "Sanjay Patsariya",
+  },
+  {
+    ID: "017",
+    Title:
+      "A Semantic and Robust Authentication Scheme for User-based Access Control on Cloud Storage",
+    Authors:
+      "Narayanan Prasanth, Saumye  Agarwal, Joshva Devadas T, Naveenkumar J, Kothapalle Harsha Vardhan",
+  },
+  {
+    ID: "030",
+    Title:
+      "Analyzing the Efficacy of Deep Learning Algorithms in Tuberculosis Detection",
+    Authors:
+      "Siripurapu Kusuma Kumari, Suniti  Purbey , NEYYALA  VAMSI BEHARA, RAMANUJAM  RAKESH PAVAN, VAVILAPALLI  AJAY KUMAR, GOPE  SANDEEP",
+  },
+  {
+    ID: "037",
+    Title:
+      "Optimal Predictive Model for Cardiovascular Disease Using Deep Feedforward Neural Network",
+    Authors: "Irfan Khan, Pinaki Ghosh",
+  },
+  {
+    ID: "039",
+    Title:
+      "An NLP-based approach for data integration and migration on cloud infrastructure",
+    Authors: "MANOJ CHANDAK, Dr Sunita Rawat",
+  },
+  {
+    ID: "041",
+    Title:
+      "AN IMPROVED K-NEAREST NEIGHBOR APPROACH FOR NETWORK INTRUSION DETECTION SYSTEM",
+    Authors: "Muthusamy A, Lakshmi P, Thiruvenkadam T, Gayathri N",
+  },
+  {
+    ID: "048",
+    Title:
+      "A Comprehensive Evaluation of Ensemble Machine Learning Algorithms for Sepsis Prediction: A Comparative Study",
+    Authors: "Narinder Kaur",
+  },
+  {
+    ID: "054",
+    Title:
+      "Cancer Guard: A Machine Learning Approach for Early Detection and Prediction of Lung Cancer",
+    Authors: "Akash Devkar",
+  },
+  {
+    ID: "056",
+    Title:
+      "Decentralized Social Media Application Based on Blockchain and NFT Technology",
+    Authors: "Ritu Rathee",
+  },
+  {
+    ID: "059",
+    Title:
+      "Software Project Cost Estimating Methodologies: An Overview of Research on Various Cost Estimation Methods",
+    Authors: "AJAY JAISWAL, JAGDISH RAIKWAL, PUSHPA RAIKWAL",
+  },
+  {
+    ID: "060",
+    Title:
+      "Stacking Ensemble Learning based Detection of Cross-Site Scripting Attack",
+    Authors:
+      "Mrinal Goswami, Barasha  Das, Sreya  Bhowmick, Liaren  Emani Aier, Arpita  Nath Boruah",
+  },
+  {
+    ID: "064",
+    Title:
+      "AI Advancements in Food, Nutrition and Dietetics: A  Comprehensive Survey",
+    Authors:
+      "Vedant Kulkarni, Samarth Lawate, Bhanupratap Jaiswal, Sangram More",
+  },
+  {
+    ID: "068",
+    Title:
+      "A Hybrid Deep Learning Model for Car Crash Prediction using Driver Behavioral Pattern",
+    Authors:
+      "Halleluyah Oluwatobi  AWORINDE, Biswajit  BRAHMA, Abidemi Emmanuel  ADENIYI, Oduayo Dauda  OLANLOYE, Joseph Bamidele AWOTUNDE, Mrakpor Emuejevoke  OSAMEDE, Hemanta Kumar  Bhuyan",
+  },
+  {
+    ID: "069",
+    Title:
+      "Investigating The Factors of Customer Feedback Affecting Prouct Sales on E-Commerce Platforms",
+    Authors: "Cuong Nguyen, Nhan Nguyen, Ninh Nguyen",
+  },
+  {
+    ID: "072",
+    Title: "VOICE-BASED EMAIL SYSTEM FOR VISUALLY IMPAIRED INDIVIDUALS",
+    Authors: "LAKSHMI SRI HARIKA MUNGARA, Vankamamidi S Naresh",
+  },
+  {
+    ID: "075",
+    Title:
+      "Diabetic Prediction Model Based on BOX-COX  Transformation and Optimized Autoencoder with SVM  Classification",
+    Authors: "piyush gupta",
+  },
+  {
+    ID: "081",
+    Title:
+      "Modified Karatsuba Approximate Multiplier for error resilient applications",
+    Authors:
+      "Hareesha Pathallapalli, Dheeraj Thamballa, Sai Soniya Parisa, Gundugonti Kishore kumar",
+  },
+  {
+    ID: "082",
+    Title:
+      "A Systematic Approach For Identity Management using Convolutional Neural Network",
+    Authors: "Rudra Singh",
+  },
+  {
+    ID: "083",
+    Title:
+      "A Novel Approach for Object Recognition in Hazy Scenes: Integrating YOLOv7 Architecture with Boundary Constrained Dehazing",
+    Authors: "Sandeep Vishwakarma, Dr. Anuradha Pillai, Dr. Deepika Punj",
+  },
+  {
+    ID: "084",
+    Title: "Employee Salary Satisfaction Analysis Using Machine Learning",
+    Authors:
+      "Himakshi Chaturvedi, Nallakaruppan Kailasanathan, Suruchi Pandey, Alka Agnihotri, Divya Nair, Siddhesh Fuladi",
+  },
+  {
+    ID: "086",
+    Title:
+      "Rainfall forecasting using Machine Learning Techniques: Case Study Surat, India",
+    Authors: "Bhavini Shah, Dr. Kamlendu Pandey",
+  },
+  {
+    ID: "089",
+    Title:
+      "Strategic Alliances in E-Commerce: Lessons from the Big Basket-Tata Digital Merger",
+    Authors: "Dr Arpita Srivastava, vikram sharma",
+  },
+  {
+    ID: "090",
+    Title: "SIGN LANGUAGE DETECTION",
+    Authors: "Harshitha Navya Chennu, R Leela Phani Kumar",
+  },
+  {
+    ID: "093",
+    Title:
+      "Enhancing Air Quality via Electromagnetic Field Decontamination and Trioxygen Eradication: An Experimental Study",
+    Authors: "Indrajeet Kumar",
+  },
+  {
+    ID: 100,
+    Title: "An Improved Fabric Defect Detection using Machine Learning",
+    Authors: "Jenil Dhorajiya, Tejas Patil, Keyush Shah, Prashant Udawant",
+  },
+  {
+    ID: 108,
+    Title:
+      "Advancing Gender, Age and Ethnicity with YOLOv5 and Transfer Learning",
+    Authors: "B.K. Tripathy, Varun Bhattacharya",
+  },
+  {
+    ID: 111,
+    Title: "A Framework for Movie Recommendation Using Content Based Filtering",
+    Authors: "Vishal Paranjape, Neelu Nihalani",
+  },
+  {
+    ID: 121,
+    Title:
+      "DETECTION & ANALYSIS FOR LIMITATIONS OF ETHERNET CABLE CONNECTING MULTIPLE COMPUTER DEVICES IN SERIES",
+    Authors: "JAYANT ADHIKARI, dhanshri badole",
+  },
+  {
+    ID: 126,
+    Title:
+      "Exploring The Issues And Challenges In Crowdsourcing: An Empirical Investigation",
+    Authors: "Santosh Kumar, Mohammad  Faisal",
+  },
+  {
+    ID: 128,
+    Title: "Resume Analysis and Application Profile Analysis",
+    Authors: "Manwith Modala, Gangula Saisrijan Reddy, Akanksha Singh",
+  },
+  {
+    ID: 131,
+    Title:
+      "Exploring the Influence of Mobile Apps on Customer Engagement and Loyalty",
+    Authors: "priti verma, Dr. Mridul  Dharwal, Purushottam  Das",
+  },
+  {
+    ID: 141,
+    Title:
+      "Optimizing Database Systems for Parallel Processing in Multi-core Environments",
+    Authors:
+      "Mallegowda M, Sini Anna Alex, Anita Kanavalli, Sajal  Srivastava, Shashank  Singh",
+  },
+  {
+    ID: 142,
+    Title:
+      "Real Power Loss Reduction by Yoga Master Training the Students based Optimization Algorithm",
+    Authors: "Dr Lenin Kanagasabai",
+  },
+  {
+    ID: 146,
+    Title:
+      "ITD-ML: Improving Diagnosis Capabilities for Thyroid Disease Using Machine Learning",
+    Authors:
+      "Praveen  Gupta, Umashankar Ghugar, Satyabrata Dash, Rakesh Nayak, Rakesh Nayak",
+  },
+  {
+    ID: 147,
+    Title: "Sign Language Translation into Text using Deep Learning",
+    Authors: "Lahari Darsi, S.Naresh Vankamamidi",
+  },
+  {
+    ID: 150,
+    Title:
+      "Sustainable Internet of things (IoT) for restricted items using a dynamic sleeping wake-up approach",
+    Authors:
+      "Vishnu Kumar Mishra, Bhupesh Dewangan, Megha Mishra, Kimidi  Parijatha",
+  },
+  {
+    ID: 152,
+    Title:
+      "Hybrid Filtering Methods in Movie Recommendation: The Enhanced SOM Approach",
+    Authors: "Saurabh Sharma",
+  },
+  {
+    ID: 153,
+    Title: "Recent Review on  Diebetic Retinopathy Detection (DRD)  Approaches",
+    Authors: "Dr Kapil Chaturvedi, Dr. Vijay  Bhandari , Mr. Rishabh  Tiwari",
+  },
+  {
+    ID: 155,
+    Title:
+      "Traffic anomaly detection and annotation using hybridization of deep leaning method and Haar cascade classifier",
+    Authors: "Debasis Mohapatra,  Srinivasa Rao  Tottempudi, Vamsi  Muraparthi",
+  },
+  {
+    ID: 156,
+    Title:
+      "DeepFake Videos Detection and Classification Using Resnext and LSTM Neural Network",
+    Authors: "Amit Jain, Saroj Kumar Chandra, Suman Patel",
+  },
+  {
+    ID: 158,
+    Title:
+      "Revolutionizing Healthcare through the Internet of Things: Current State and Future Implications",
+    Authors: "Mr. Rohit Barwade, Dr. Vikrant Sabnis, Dr. Jay Kumar Jain",
+  },
+  {
+    ID: 163,
+    Title:
+      "IoT based Car Accident Detection and Emergency Communication System using GSM and RF along with Audiovisual Assistant",
+    Authors: "Sachi Choudhary, Prashant  Shukla, Neel Adwani, Gauraang Sharma",
+  },
+  {
+    ID: 165,
+    Title:
+      "Cancer Classification from Gene Expression Data:Building Machine Learning Models",
+    Authors:
+      "Pravinkumar Sonsare, Aarya  Mujumdar, Pranjali  Joshi, Nipun  Morayya, Sachal  Hablani, Vedant  Khergade",
+  },
+  {
+    ID: 178,
+    Title:
+      "Differentiation of music genre from an audio file using Neural Networks",
+    Authors:
+      "Vishal Singh, Tanupriya Choudhury, Ayan Sar, Ketan  Kotecha, Pushker Jain",
+  },
+  {
+    ID: 181,
+    Title:
+      "Image Captioning of Satellite Images using Transfer Learning and LSTM Blending",
+    Authors:
+      "Rohit Sharma, Aayush  katoch, sourabh singh verma, Aishwary Shree",
+  },
+  {
+    ID: 193,
+    Title: "A Comprehensive Study on Stock Prediction using GRU models",
+    Authors:
+      "Prakhar  Pandey, Malvika  Madan, Mahendra Gourisaria, Himansu Das",
+  },
+  {
+    ID: 200,
+    Title:
+      "Cost Reduction Usage of Infrastructure in Management Sectors using IoT and Cloud",
+    Authors:
+      "S Srinivasan, K Sampath Kumar, D Ganesh, S Nagaraj, J Jeya A Celin",
+  },
+  {
+    ID: 209,
+    Title: "Sentiment Analysis in Gujarati Language with Dictionary Approach",
+    Authors: "Devanshu Dudhia, Dipti Rana",
+  },
+  {
+    ID: 210,
+    Title:
+      "Detecting Pneumonia and COVID-19 by using chest X-ray with ResNet Algorithm",
+    Authors: "Padmini S",
+  },
+  {
+    ID: 211,
+    Title:
+      "Comprehensive Study and Analysis of 3D Objects from Real World Environment",
+    Authors: "Purvi Prajapati, Nirav Bhatt, Nikita Bhatt",
+  },
+  {
+    ID: 216,
+    Title:
+      "An Efficient Machine Learning Technique for Spectrum Resource Allocation in Cognitive Radio",
+    Authors: "Ashutosh  Nandan, Keshav Mishra, Rovin Tiwari",
+  },
+  {
+    ID: 217,
+    Title:
+      "An Efficient Channel Prediction Using Artificial Neural Network Deep Learning Technique in Cognitive Radio",
+    Authors: "Durgesh Kumar, Rovin Tiwari, Keshav Mishra",
+  },
+  {
+    ID: 218,
+    Title: "Group Dynamics and Its Role in IT Projects Timeline",
+    Authors: "JASLEEN RIHAN",
+  },
+  {
+    ID: 219,
+    Title:
+      "Data Pre-processing Solution using Statistical and Data Mining Techniques",
+    Authors:
+      "PRARTHANA DESHKAR, KOUSTUBH LAGHATE, Aditya Ghorpade, Divyam Padole, Harsh Shende, Piyush Kawale, Piyush Sakhare",
+  },
+  {
+    ID: 222,
+    Title:
+      "Securing the Secrets of 5G: Mitigating Eavesdropping Threats and Enhancing Network Integrity",
+    Authors: "Mamidisetti Sai, Ravi Kant Sahu",
+  },
+  {
+    ID: 227,
+    Title:
+      "Analysis of Object Identification and Classification using YOLO and RCNN",
+    Authors:
+      "Jagdish Chandra Patni, Shrinivas Mahajan, Shreyash Rodge, Om Kuhikar, Sadaf Farooqui, Ziyad Quazi, Nilesh Shelke",
+  },
+  {
+    ID: 228,
+    Title:
+      "Selection of optimal structural ceramic materials using various multi-criteria decision-making techniques for diverse applications",
+    Authors: "RAJESH SHARMA, Mohan Kumar Pradhan, Pankaj Jain",
+  },
+  {
+    ID: 231,
+    Title:
+      "Hybrid Algorithm Random Forest-Linear Regression to Predict Heart Disease",
+    Authors: "Mayur S S, Dr. Rohini TV TV",
+  },
+  {
+    ID: 233,
+    Title:
+      "Advancements in Deep Learning for the Precise Detection of Diseases in Potato Leaves",
+    Authors:
+      "S KUMAR REDDY MALLIDI, SAI SUMAKEERTHI ADABALA, Susmitha Radha Devi Nunna, Geetha Chandrika Chitturi, Pujan Bondada",
+  },
+  {
+    ID: 237,
+    Title: "Advancing Medical Predictive Models with Integrated Approaches",
+    Authors: "Aman Kumar, Randeep Singh",
+  },
+  {
+    ID: 252,
+    Title:
+      "An Exploration of Shed Management Digitization for the Indian Railways",
+    Authors:
+      "Aditya Muley, Gyanprakash Narayan, Aryan Umale, Rajendra Yelalwar",
+  },
+  {
+    ID: 259,
+    Title: "Handwritten Text Recognition using Deep learning",
+    Authors: "Sahil Naikwadi, Prashant Shelar, Kanchan  Kadam, Sakshi Hosamani",
+  },
+  {
+    ID: 272,
+    Title:
+      "ResNet-50 Powered Masked Face Detection: A Deep Learning Perspective",
+    Authors: "Dr. Nilam Choudhary, Pramod Singh Rathore",
+  },
+  {
+    ID: 279,
+    Title:
+      "MediMind: A Comprehensive Health Prediction and Record-Keeping Platform",
+    Authors:
+      "Darshana A. Naik, Aditya Sharma, DANISH MAHAJAN, Dhruv Khandelwal, Arpit Gajya",
+  },
+  {
+    ID: 283,
+    Title:
+      "A Deep Learning Framework for Real Time Detection of Rotten Fruits Using Yolov5s Architecture",
+    Authors: "NAUSHEEN MALIK, PANKAJ SAHU, BHAVANA JHARIA",
+  },
+  {
+    ID: 288,
+    Title:
+      "Advancements in Plant Leaf Disease Identification Using Deep Learning And Machine Learning Perspective",
+    Authors: "Chetan Patil, Ranjana Badre",
+  },
+  {
+    ID: 289,
+    Title: "Unmasking Deepfake Images and Videos: A Comprehensive Detection",
+    Authors:
+      "Amna Patel, Dhruvraj Solanki, Himesh Ganwani, Manav Anandani, priya parkhi",
+  },
+  {
+    ID: 294,
+    Title: "Deep Learning Based Supraventricular Arrhythmia Detection",
+    Authors: "Rajani Kumari L.V., Asha jyothi  sabavat",
+  },
+  {
+    ID: 295,
+    Title:
+      "Navigating the Shopping Landscape: A Comparative Analysis of E-Commerce and Traditional Retail in the Digital Age",
+    Authors: "Pratima Gund, Krupa  Dharmadhikari, Pravin Mane, Rahul  Manjare",
+  },
+  {
+    ID: 297,
+    Title:
+      "The Segment Anything Model (SAM) for Mining Engineering Applications:  From Zero to One Shot",
+    Authors:
+      "Adabala Raja Venkata Sai Naresh, Radhakanta Koner, Ayushman  Tiwari",
+  },
+  {
+    ID: 298,
+    Title: "SMART RAILWAY PLATFORM WITH TRAIN ARRIVAL DETECTION",
+    Authors: "Anita Daniel, Vishaanth R P, Saravanan T K",
+  },
+  {
+    ID: 301,
+    Title: "A  rational cooperative foraging based  grey wolf optimizer",
+    Authors: "Shirish Adam, Prashant Gaidhane, Nilesh Mahajan",
+  },
+  {
+    ID: 306,
+    Title: "OPERATED VIRTUAL EMBEDED REALITY",
+    Authors:
+      "Ashis Kumar  Mishra, SAURABH SATAPATHY, Sumit  Das Mohapatra, Omm Prakash  Jena",
+  },
+  {
+    ID: 307,
+    Title:
+      "A Cost-effective Autonomous Beach Cleaning Rover using Deep Learning",
+    Authors:
+      "Girish S, Harikrishnan S, Rahul H  Nair, Midhun Sreerajan, Soumya Sathyan, Ravikumar Pandi V, Vipina Valsan, Kavya Suresh",
+  },
+  {
+    ID: 309,
+    Title:
+      "MEAN DONKEY AND SMUGGLER OPTIMIZATION (MDSO) BASED CLUSTER HEAD SELECTION AND RECURRENT NEURAL NETWORK CLONE NODE DETECTION (RNNCND) FOR WIRELESS SENSOR NETWORK (WSN)",
+    Authors: "Jane Nithya",
+  },
+  {
+    ID: 312,
+    Title: "Citizen Welfare and Sustainability of Metro Project in Pune",
+    Authors: "Rishabh Telakallu, Manisha Paliwal, Dimple Saini, Dr. Pooja .",
+  },
+  {
+    ID: 313,
+    Title: "ADOPTION OF IOT BY FARMERS IN THE AGRICULTURE SECTOR",
+    Authors: "Harsh Mahida, Manisha Paliwal, Dr. Dimple Saini, Dr. Pooja .",
+  },
+  {
+    ID: 326,
+    Title:
+      "Breast Cancer Prediction: A Comparative Study of Different Machine Learning Algorithms across Multiple Datasets",
+    Authors: "Ankita  Khatua, Nilina Bera, Subhajit Datta",
+  },
+  {
+    ID: 328,
+    Title: "Transformer-Based Word Association of Marathi Text",
+    Authors: "Kirti Kakde, Dr. H. M. Padalikar",
+  },
+  {
+    ID: 334,
+    Title:
+      "Phish-Guard: A Visual Phishing Detection Approach using Webpage Color Palette and Machine Learning",
+    Authors: "Pankaj Pandey, Nishchol  Mishra",
+  },
+  {
+    ID: 335,
+    Title:
+      "Identification of Helmet Rule Violators Using Convolutional Neural Network",
+    Authors:
+      "Piyush Choudhary, Avinash Agrawal, Janhavi Dalal, Alsaniya Hussain",
+  },
+  {
+    ID: 337,
+    Title:
+      "Enhanced Multiple Convolutional Neural Networks based CCS P System for Precise Classification in Membrane System-Based Applications",
+    Authors:
+      "Nagappan Govindarajan, Gayathri Lakshmi  M,  Arul Freeda Vinodhini  G, Gnanaraj Thomas  D",
+  },
+  {
+    ID: 339,
+    Title: "Speech Emotion Recognition Using Machine Learning",
+    Authors:
+      "Jayesh Chaudhari, Kalpesh Patil, Ruturaj Savakare, Atharv Khamkar",
+  },
+  {
+    ID: 343,
+    Title:
+      "An Approach to Predict Breast Cancer using Ensemble Learning Technique",
+    Authors:
+      "Vaishnavi Chandgadkar, Prachi Pathak, Aryansh Shrivastava, Aditya Solanki, Tabassum Maktum, Namita  Pulgam",
+  },
+  {
+    ID: 344,
+    Title:
+      "A New Modified Approach of Linear Regression and Decision Tree Modeling for Enhancement of the Accuracy",
+    Authors:
+      "Kalpana Hazarika, Sushil Kumar, Uday  Varshneya, Shubhi Srivastava",
+  },
+  {
+    ID: 354,
+    Title:
+      "Multilayer Perceptron: Architecture Optimization for Classifying anemia patients.",
+    Authors: "Rajen Vohra, Jankisharan Pahareeya",
+  },
+  {
+    ID: 359,
+    Title:
+      "Operational Excellence Deciphered Lessons from the Oracles of Order and Organization",
+    Authors: "Pooja   Sapra, Vaishali Singh, Bhabajyoti  Saikia, Rahul  Pawar",
+  },
+  {
+    ID: 360,
+    Title:
+      "Delving into Virtual Ventures and the Growing Vi-gnettes of Vehicular Innovations",
+    Authors:
+      "Ritesh Kumar Kumar, Manash J  Borah, M N  Nachappa, DR. WARISH PATEL",
+  },
+  {
+    ID: 362,
+    Title:
+      "Timeless Techniques and Their Integration into the Tomes of Today's Business Strategies",
+    Authors: "Amit  Barve , Preeti Naval, Shivani  Borah, Febin  Prakash",
+  },
+  {
+    ID: 363,
+    Title:
+      "Networks, Nodes, and Nebulas Navigating the Complex World of Modern Business Strategies",
+    Authors: "M   Kumaresan, Vishal  Sorathiya , Preeti Naval, Shivani  Borah",
+  },
+  {
+    ID: 365,
+    Title:
+      "Corporate Cultures and Craft the Chronicles of Busi-ness Evolution and Adaptation",
+    Authors:
+      "S K Manju  Bhargavi , kalpesh   Jadav, Girija Shankar Sahoo, Pranami  Chakraborty",
+  },
+  {
+    ID: 372,
+    Title:
+      "UDR Fused Multimodal Approach for Disease Classification in Large scale Dataset with Advanced CNNs",
+    Authors:
+      "Sachin Mishra, Santosh  Kumar, Rajat Tiwari, Aakash Sonkar, Abhishek  Shrivastav",
+  },
+  {
+    ID: 373,
+    Title: "Cloudburst Predicition System Using Machine Learning",
+    Authors: "Herin Shani S, Nagappan Govindarajan",
+  },
+  {
+    ID: 375,
+    Title:
+      "Performance Evaluation of Routing Protocols for Vehicle Re-Routing in ITS-based Vehicular Networks",
+    Authors: "PALLAVI SINGH, DURGESH KUMAR KESHAR",
+  },
+  {
+    ID: 376,
+    Title:
+      "A Historical Exploration of Adyar Coastal Inlet Utilizing the Inlet Tracker Toolkit",
+    Authors: "Priyadharshini A",
+  },
+  {
+    ID: 377,
+    Title:
+      "Systematic Structures and Silicon Stories Shaping the Saga of Software Solutions",
+    Authors: "Bhuvana  J, Daxa   Vekariya, Shweta Singh, Seema  Sharma",
+  },
+  {
+    ID: 378,
+    Title:
+      "A Fibonacci Based MDS Code and Its Application to a Secret Sharing Scheme",
+    Authors: "Yogesh Diwan, Komal Paroolkar, Prabal Paul",
+  },
+  {
+    ID: 381,
+    Title: "Real Time Vehicle Collision Detection With Alert System",
+    Authors: "Akshith Jobirin S, Nagappan Govindarajan",
+  },
+  {
+    ID: 382,
+    Title:
+      "From Browsers to Bots Unveiling the Power of Bits in Bridging Business Gaps",
+    Authors:
+      "Samannoy   Baruah, Beemkumar Nagappan, Amit  Gantra, Anupam Kumar Gautam Gautam",
+  },
+  {
+    ID: 383,
+    Title: "Chatbot based Ticket booking system for all modes of Transport",
+    Authors:
+      "Vinod Kumar S, Kumar P, Monisha Ramanathan, Mustafa  Abdullahbhai Khorakiwala",
+  },
+  {
+    ID: 384,
+    Title:
+      "Blending Synthesized Strategies with Proven Practices for Achieving Business Success",
+    Authors:
+      "Swapnil   Parikh, Megha Pandeya, Bidyut Bikash  Das, Syed  haroon",
+  },
+  {
+    ID: 385,
+    Title:
+      "A MATLAB / Simulink Implementation of Closed Loop Speed Control of DC, PMBLDC, and PMSM Motors using Fuzzy Logic Controller for EV Applications",
+    Authors: "MAHAMMADSOAIB SAIYAD, SAJID PATEL",
+  },
+  {
+    ID: 391,
+    Title:
+      "Mapping the Tangible Touchpoints of Modern Techno-logical Triumphs in Management Systems",
+    Authors: "Bhabajyoti   Saikia, Bhuvana  J, Pooja  Sapra, B.P. Singh",
+  },
+  {
+    ID: 397,
+    Title: "Text Mining for Fine-grained Emotion Detection",
+    Authors: "ubeeka jain, Parminder Singh",
+  },
+  {
+    ID: 400,
+    Title:
+      "Innovative Precision Medicine: An Explainable AI-Driven Biomarker-Guided Recommendation System with Multilayer FeedForward Neural Network Model",
+    Authors: "Sree Pragna Machupalli, Dr Girija  J",
+  },
+  {
+    ID: 401,
+    Title:
+      "Real-time Analysis of Stock Market Prediction Through Social Networks Data",
+    Authors: "Medeswara Rao Kondamudi, Somyaranjan Sahoo",
+  },
+  {
+    ID: 403,
+    Title: "Cloud Data Centre Optimisation for Various  Client Classes",
+    Authors:
+      "Sameer Sameer, Bibhuti Bhusan Dash, Prachi Vijayeeta, Utpal Chandra  De, Manoj Ranjan  Mishra, Dr Sudhansu Patra",
+  },
+  {
+    ID: 404,
+    Title:
+      "The Hidden Challenge: Workplace Ostracism and its Ripple Effects in Higher Education Environments",
+    Authors: "Pushkar Dubey, Dr. Kailash Kumar Sahu, Kshitijay Singh",
+  },
+  {
+    ID: 412,
+    Title:
+      "Flame Guard : Advanced Fire Detection System Via Machine Learning And Image Processing",
+    Authors: "Syed Tasneem",
+  },
+  {
+    ID: 414,
+    Title:
+      "Identification and Classification of Depressed Patients Using Machine Learning- A Review",
+    Authors:
+      "Ajay Kumar, Kakoli Banerjee, Pradeep  Kumar, Priyanshi Tyagi, Preeti Singh, Prisha Thapar",
+  },
+  {
+    ID: 415,
+    Title:
+      "Multi-Classification of Lung Diseases using Lung Ultrasound Imaging",
+    Authors: "Sucharitha M, Subramanyam A",
+  },
+  {
+    ID: 416,
+    Title:
+      "Impact of Machine Learning Applications on Water  Quality Prediction",
+    Authors: "Mallika Sharma, Nanhey Singh, Pankaj Lathar",
+  },
+  {
+    ID: 418,
+    Title: "Brain Tumor Prediction Using Deep Neural Network (DNN)",
+    Authors: "Sumit Chhabra",
+  },
+];

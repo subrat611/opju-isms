@@ -1,6 +1,15 @@
+import Link from "next/link";
+import styles from "./about.module.css";
+
 const AboutSection = () => {
   return (
     <section className="container mt-2">
+      <div className={styles.scroll_left}>
+        <Link href="/registration" className="fs-5 fw-semibold text-danger">
+          List of Accepted Papers | Research Grant INR 2000 to Research Scholar
+          (Presentation in Physical Mode)
+        </Link>
+      </div>
       <div className="d-flex justify-content-around align-items-center flex-wrap">
         <img src="/image3.png" width="230" height="230" />
         <img src="/image2.png" width="270" height="100" />
