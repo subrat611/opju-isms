@@ -20,13 +20,13 @@ export const navLinks = [
     path: "/publication",
   },
   {
+    name: "Keynote speaker",
+    path: "/keynote-speaker",
+  },
+  {
     name: "sponsors",
     path: "/sponsors",
   },
-  // {
-  //   name: "workshops",
-  //   path: "/workshops",
-  // },
   {
     name: "archives",
     path: "/archives",
@@ -1229,5 +1229,416 @@ export const AcceptedPapersList = [
     ID: 418,
     Title: "Brain Tumor Prediction Using Deep Neural Network (DNN)",
     Authors: "Sumit Chhabra",
+  },
+];
+
+export const RegisteredPaperList = [
+  {
+    "Paper ID": 1,
+    "Title of the Paper": "Power Ballot: Exploiting Blockchain Technology",
+    "Name of Corresponding Author":
+      "Dr. Vijaya Pinjarkar, Prof. Umesh Pinjarkar",
+  },
+  {
+    "Paper ID": 13,
+    "Title of the Paper":
+      "Application of Convolutional Neural Networks and Vision Transformer Models for Age and Gender Detection",
+    "Name of Corresponding Author": "AWOTUNDE JOSEPH BAMIDELE",
+  },
+  {
+    "Paper ID": 15,
+    "Title of the Paper":
+      "A New Secure and Robust Watermarking Using  Entropy & Hybrid Scrambling Approach",
+    "Name of Corresponding Author": "Sanjay Patsariya",
+  },
+  {
+    "Paper ID": 17,
+    "Title of the Paper":
+      "A Semantic and Robust Authentication Scheme for  User-based Access Control on Cloud Storage",
+    "Name of Corresponding Author": "Kothapalle Harshavardhan",
+  },
+  {
+    "Paper ID": 39,
+    "Title of the Paper":
+      "An NLP-based approach for data integration and migration on cloud infrastructure",
+    "Name of Corresponding Author": "Dr.M.B.Chandak",
+  },
+  {
+    "Paper ID": 54,
+    "Title of the Paper":
+      "Cancer Guard: A Machine Learning Approach for Early Detection and Prediction of Lung Cancer",
+    "Name of Corresponding Author": "Anuradha Kanade",
+  },
+  {
+    "Paper ID": 59,
+    "Title of the Paper":
+      "Software Project Cost Estimating Methodologies: Overview of Research on Various Cost Estimation Methods",
+    "Name of Corresponding Author": "JAGDISH RAIKWAL, PUSHPA RAIKWAL",
+  },
+  {
+    "Paper ID": 59,
+    "Title of the Paper":
+      "Software Project Cost Estimating Methodologies: Overview of Various Cost Estimation Methods",
+    "Name of Corresponding Author": "Ajay Jaiswal",
+  },
+  {
+    "Paper ID": 60,
+    "Title of the Paper":
+      "Stacking Ensemble Learning based Detection of Cross-Site Scripting Attack",
+    "Name of Corresponding Author": "Mrinal Goswami",
+  },
+  {
+    "Paper ID": 64,
+    "Title of the Paper":
+      "AI Advancements in Food, Nutrition and Dietetics: A  Comprehensive Survey",
+    "Name of Corresponding Author": "Vedant Kulkarni",
+  },
+  {
+    "Paper ID": 68,
+    "Title of the Paper":
+      "Development of a hybrid Deep Learning Model for Car Crash Prediction using Driverâ€™s Behavioral Pattern",
+    "Name of Corresponding Author": "AWOTUNDE JOSEPH BAMIDELE",
+  },
+  {
+    "Paper ID": 72,
+    "Title of the Paper":
+      "VOICE-BASED EMAIL SYSTEM FOR VISUALLY IMPAIRED INDIVIDUALS",
+    "Name of Corresponding Author": "LAKSHMI SRI HARIKA MUNGARA",
+  },
+  {
+    "Paper ID": 75,
+    "Title of the Paper":
+      "Diabetic prediction model Based on Box Cox transformation and optimized autoencoder with svm classification",
+    "Name of Corresponding Author": "Dr Bhupendra verma ,Dr Mahesh pawar",
+  },
+  {
+    "Paper ID": 86,
+    "Title of the Paper":
+      "Rainfall forecasting using Machine Learning Techniques: Case Study Surat, India",
+    "Name of Corresponding Author": "Bhavini Shah",
+  },
+  {
+    "Paper ID": 89,
+    "Title of the Paper":
+      "Strategic Alliances in E-Commerce: Lessons from the Big  Basket-Tata Digital Merger",
+    "Name of Corresponding Author": "Dr Arpita Srivastava",
+  },
+  {
+    "Paper ID": 90,
+    "Title of the Paper": "SIGN LANGUAGE DETECTION",
+    "Name of Corresponding Author": "Harshitha Navya Chennu",
+  },
+  {
+    "Paper ID": 108,
+    "Title of the Paper":
+      "Advancing Gender, Age and Ethnicity with YOLOv5 and Transfer Learning",
+    "Name of Corresponding Author": "Varun Bhattacharya",
+  },
+  {
+    "Paper ID": 126,
+    "Title of the Paper":
+      "Exploring the Issues and Challenges in Crowdsourcing: An Empirical Investigation",
+    "Name of Corresponding Author": "Santosh Kumar",
+  },
+  {
+    "Paper ID": 131,
+    "Title of the Paper":
+      "Exploring the Influence of Mobile Apps on Customer Engagement and Loyalty",
+    "Name of Corresponding Author": "Priti Verma",
+  },
+  {
+    "Paper ID": 141,
+    "Title of the Paper":
+      "Optimizing Database Systems for Parallel Processing in Multi-core Environments",
+    "Name of Corresponding Author": "Mallegowda M",
+  },
+  {
+    "Paper ID": 142,
+    "Title of the Paper":
+      "Real Power Loss Reduction by Yoga Master Training the Students based Optimization Algorithm",
+    "Name of Corresponding Author": "Dr. Lenin Kanagasabai",
+  },
+  {
+    "Paper ID": 147,
+    "Title of the Paper":
+      "Sign Language Translation into Text using Deep Learning",
+    "Name of Corresponding Author": "Lahari Darsi",
+  },
+  {
+    "Paper ID": 155,
+    "Title of the Paper":
+      "Traffic anomaly detection and annotation using hybridization of deep learning method and Haar cascade classifier",
+    "Name of Corresponding Author": "SRINIVASA RAO TOTTEMPUDI",
+  },
+  {
+    "Paper ID": 163,
+    "Title of the Paper":
+      "IoT based Car Accident Detection and Emergency Communication System using GSM and RF along with Audiovisual Assistant",
+    "Name of Corresponding Author": "Sachi Choudhary",
+  },
+  {
+    "Paper ID": 181,
+    "Title of the Paper":
+      "Image Captioning of Satellite Images using Transfer Learning and LSTM Blending",
+    "Name of Corresponding Author": "Sourabh Singh Verma",
+  },
+  {
+    "Paper ID": 209,
+    "Title of the Paper":
+      "Sentiment Analysis in Gujarati Language with Dictionary Approach",
+    "Name of Corresponding Author": "Devanshu J. Dudhia and Dipti Rana",
+  },
+  {
+    "Paper ID": 210,
+    "Title of the Paper":
+      "Detecting Pneumonia and COVID-19 by using chest Xray with ResNet Algorithm",
+    "Name of Corresponding Author": "Dr.S.Padmini",
+  },
+  {
+    "Paper ID": 211,
+    "Title of the Paper":
+      "Comprehensive Study and Analysis of 3D Objects from Real World Environment",
+    "Name of Corresponding Author": "Purvi Prajapati",
+  },
+  {
+    "Paper ID": 218,
+    "Title of the Paper": "Group Dynamics and Its Role in IT Projects Timeline",
+    "Name of Corresponding Author": "JASLEEN RIHAN",
+  },
+  {
+    "Paper ID": 219,
+    "Title of the Paper":
+      "Data Pre-processing Solution using Statistical and Data Mining Techniques",
+    "Name of Corresponding Author": "Prarthana Deshkar",
+  },
+  {
+    "Paper ID": 227,
+    "Title of the Paper":
+      "Analysis of Object Identification and Classification using YOLO and RCNN",
+    "Name of Corresponding Author": "Jagdish Chandra Patni",
+  },
+  {
+    "Paper ID": 233,
+    "Title of the Paper":
+      "Advancements in Deep Learning for the Precise Detection of Diseases in Potato Leaves",
+    "Name of Corresponding Author": "S Kumar Reddy Mallidi",
+  },
+  {
+    "Paper ID": 252,
+    "Title of the Paper":
+      "An Exploration of Shed Management Digitization for the Indian Railways",
+    "Name of Corresponding Author":
+      "Aditya Muley, Aryan Umale, Gyanprakash Narayan, Rajendra Yelalwar",
+  },
+  {
+    "Paper ID": 279,
+    "Title of the Paper":
+      "MediMind: A Comprehensive Health Prediction and Record-Keeping Platform",
+    "Name of Corresponding Author":
+      "Darshana A. Naik, Aditya Sharma, DANISH MAHAJAN, Dhruv Khandelwal, Arpit Gajya",
+  },
+  {
+    "Paper ID": 283,
+    "Title of the Paper":
+      "A Deep Learning Framework for Real-Time Detection of Rotten Fruits Using Yolov5s Architecture",
+    "Name of Corresponding Author": "Nausheen Malik",
+  },
+  {
+    "Paper ID": 289,
+    "Title of the Paper":
+      "Unmasking Deepfake Images and Videos: A Comprehensive Detection",
+    "Name of Corresponding Author":
+      "Prof. Priya N. Parkhi, Amna Patel, Dhruvraj Solanki, Himesh Ganwani, Manav Anandani",
+  },
+  {
+    "Paper ID": 295,
+    "Title of the Paper":
+      "Navigating the Shopping Landscape: A Comparative Analysis of E-Commerce and Traditional Retail in the Digital Age",
+    "Name of Corresponding Author": "Ms.Pratima Gund",
+  },
+  {
+    "Paper ID": 297,
+    "Title of the Paper":
+      "The Segment Anything Model (SAM) for Mining Engineering Applications:  From Zero to One Shot",
+    "Name of Corresponding Author": "Radhakanta Koner",
+  },
+  {
+    "Paper ID": 301,
+    "Title of the Paper":
+      "A rational cooperative foraging based grey wolf optimizer",
+    "Name of Corresponding Author": "Shirish Govind Adam",
+  },
+  {
+    "Paper ID": 307,
+    "Title of the Paper":
+      "A Cost-effective Autonomous Beach Cleaning Rover using Deep Learning",
+    "Name of Corresponding Author": "V. Ravikumar Pandi, Girish S",
+  },
+  {
+    "Paper ID": 309,
+    "Title of the Paper":
+      "MEAN DONKEY AND SMUGGLER OPTIMIZATION (MDSO) BASED CLUSTER HEAD SELECTION AND RECURRENT NEURAL NETWORK CLONE NODE DETECTION (RNNCND) FOR WIRELESS SENSOR NETWORK (WSN)",
+    "Name of Corresponding Author": "K.JANE NITHYA",
+  },
+  {
+    "Paper ID": 312,
+    "Title of the Paper":
+      "Citizen Welfare and Sustainability of Metro Project in Pune",
+    "Name of Corresponding Author": "Dr. Pooja",
+  },
+  {
+    "Paper ID": 313,
+    "Title of the Paper":
+      "ADOPTION OF IOT BY FARMERS IN THE AGRICULTURE SECTOR",
+    "Name of Corresponding Author": "Dr. Pooja",
+  },
+  {
+    "Paper ID": 328,
+    "Title of the Paper": "Transformer-Based Word Association of Marathi Text",
+    "Name of Corresponding Author": "Ms. Kirti Pankaj Kakde",
+  },
+  {
+    "Paper ID": 334,
+    "Title of the Paper":
+      "Phish-Guard: A Visual Phishing Detection Approach using Webpage Color Palette and Machine Learning",
+    "Name of Corresponding Author": "Pankaj Pandey",
+  },
+  {
+    "Paper ID": 335,
+    "Title of the Paper":
+      "Identification of Helmet Rule Violators Using  Convolutional Neural Network",
+    "Name of Corresponding Author": "Piyush Choudhary",
+  },
+  {
+    "Paper ID": 337,
+    "Title of the Paper":
+      "Enhanced Multiple Convolutional Neural Networks based CCS P System for Precise Classification in Membrane System-Based Applications",
+    "Name of Corresponding Author": "Dr. Nagappan Govindarajan",
+  },
+  {
+    "Paper ID": 344,
+    "Title of the Paper":
+      "A New Modified Approach of Linear Regression and Decision Tree Modeling for Enhancement of the Accuracy",
+    "Name of Corresponding Author":
+      "Kalpana Hazarika, Shubhi Srivastava, Sushil Kumar,  Uday Varshneya",
+  },
+  {
+    "Paper ID": 354,
+    "Title of the Paper":
+      "Multi layer Perceptron: Architecture optimization for classifying anemia patients",
+    "Name of Corresponding Author": "Rajen Vohra",
+  },
+  {
+    "Paper ID": 372,
+    "Title of the Paper":
+      "UDR Fused Multimodal Approach for Disease Classification in Large scale Dataset with Advanced CNNs",
+    "Name of Corresponding Author": "Sachin Mishra",
+  },
+  {
+    "Paper ID": 375,
+    "Title of the Paper":
+      "Performance evaluation of Routing Protocols for Vehicle Re-Routing in ITS based vehicular Network",
+    "Name of Corresponding Author": "PALLAVI SINGH",
+  },
+  {
+    "Paper ID": 375,
+    "Title of the Paper":
+      "Performance Evaluation of Routing Protocols for Vehicle Re - Routing in ITS - based Vehicular Networks",
+    "Name of Corresponding Author": "DURGESH KUMAR KESHAR",
+  },
+  {
+    "Paper ID": 378,
+    "Title of the Paper":
+      "A Fibonacci Based MDS Code and Its Application to a Secret Sharing Scheme.",
+    "Name of Corresponding Author": "Komal Paroolkar",
+  },
+  {
+    "Paper ID": 381,
+    "Title of the Paper":
+      "Real Time Vehicle Collision Detection With Alert System",
+    "Name of Corresponding Author": "AKSHITH JOBIRIN S",
+  },
+  {
+    "Paper ID": 383,
+    "Title of the Paper":
+      "Chatbot based Ticket Booking System for all modes of Transport",
+    "Name of Corresponding Author": "Vinodhkumar S",
+  },
+  {
+    "Paper ID": 385,
+    "Title of the Paper":
+      "A MATLAB / Simulink Implementation of Closed Loop Speed Control of PMBLDC and PMSM Motors using Fuzzy Logic Controller for EV Applications",
+    "Name of Corresponding Author": "MAHAMMADSOAIB SAIYAD",
+  },
+  {
+    "Paper ID": 397,
+    "Title of the Paper": "Text Mining for Fine-grained Emotion Detection",
+    "Name of Corresponding Author": "Ubeeka Jain",
+  },
+  {
+    "Paper ID": 400,
+    "Title of the Paper":
+      "Innovative Precision Medicine: An Explainable AI-Driven Biomarker-Guided Recommendation System with Multilayer FeedForward Neural Network Model",
+    "Name of Corresponding Author": "Sree Pragna Machupalli",
+  },
+  {
+    "Paper ID": 401,
+    "Title of the Paper":
+      "Real-time Analysis of Stock Market Prediction Through Social Networks Data",
+    "Name of Corresponding Author": "Somya Ranjan Sahoo",
+  },
+  {
+    "Paper ID": 403,
+    "Title of the Paper":
+      "Cloud Data Centre Optimisation for Various  Client Classes",
+    "Name of Corresponding Author": "Sudhansu Shekhar Patra",
+  },
+  {
+    "Paper ID": 404,
+    "Title of the Paper":
+      "The Hidden Challenge: Workplace Ostracism and its Ripple Effects in Higher Education Environments",
+    "Name of Corresponding Author": "Kshitijay Singh",
+  },
+  {
+    "Paper ID": 414,
+    "Title of the Paper":
+      "Identification and Classification of Depressed Patients Using Machine Learning- A Review",
+    "Name of Corresponding Author": "Priyanshi Tyagi",
+  },
+  {
+    "Paper ID": 415,
+    "Title of the Paper":
+      "Multi-Classification of Lung Diseases using Lung Ultrasound Imaging",
+    "Name of Corresponding Author": "SUBRAMANYAM A",
+  },
+  {
+    "Paper ID": 416,
+    "Title of the Paper":
+      "Impact of Machine Learning Applications on  Water Quality Prediction",
+    "Name of Corresponding Author": "Mallika",
+  },
+];
+
+export const KeynoteSpeaker = [
+  {
+    role: "Guest for Inaugural",
+    name: "Prof Rajiv Prakash",
+    deg: "",
+    uni: "Director of IIT Bhilai",
+    img: "/profrajiv.png",
+  },
+  {
+    role: "",
+    name: "Prof. Ing. Carl James Debono",
+    deg: "Professor",
+    uni: "Communications & Computer Engineering Faculty of Information & Communication Technology University of Malta, Msida",
+    img: "/profIng.jpg",
+  },
+  {
+    role: "",
+    name: "Dr. Lalit Garg",
+    deg: "",
+    uni: "University of Malta, Information & Comm. Tech., Malta",
+    img: "/lalit.png",
   },
 ];

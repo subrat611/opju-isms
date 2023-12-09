@@ -35,3 +35,22 @@ ul li {
 a {
   text-decoration: none;
 }
+
+.keynoteimgsize {
+  width: 170px;
+  height: 180px;
+}
+
+.responsive_card {
+  width: 50%;
+}
+@media(max-width: 900px) {
+  .responsive_card {
+    width: 75%;
+  }
+  .keynoteimgsize {
+    width: 100%;
+    height: 190px;
+    object-fit: fill;
+  }
+}
