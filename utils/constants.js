@@ -1622,6 +1622,13 @@ export const RegisteredPaperList = [
 export const KeynoteSpeaker = [
   {
     role: "Guest for Inaugural",
+    name: "Dr. Lalit Garg",
+    deg: "",
+    uni: "University of Malta, Information & Comm. Tech., Malta",
+    img: "/lalit.png",
+  },
+  {
+    role: "Guest for Inaugural",
     name: "Prof Rajiv Prakash",
     deg: "",
     uni: "Director of IIT Bhilai",
@@ -1633,12 +1640,5 @@ export const KeynoteSpeaker = [
     deg: "Professor",
     uni: "Communications & Computer Engineering Faculty of Information & Communication Technology University of Malta, Msida",
     img: "/profIng.jpg",
-  },
-  {
-    role: "",
-    name: "Dr. Lalit Garg",
-    deg: "",
-    uni: "University of Malta, Information & Comm. Tech., Malta",
-    img: "/lalit.png",
   },
 ];
