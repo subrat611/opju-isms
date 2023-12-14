@@ -1240,6 +1240,12 @@ export const RegisteredPaperList = [
       "Dr. Vijaya Pinjarkar, Prof. Umesh Pinjarkar",
   },
   {
+    "Paper ID": 9,
+    "Title of the Paper":
+      "Enhancing Fruit Recognition with YOLO v7: A Comparative Analysis Against YOLO v4",
+    "Name of Corresponding Author": "Jagdish Chandra Patni",
+  },
+  {
     "Paper ID": 13,
     "Title of the Paper":
       "Application of Convolutional Neural Networks and Vision Transformer Models for Age and Gender Detection",
@@ -1296,7 +1302,7 @@ export const RegisteredPaperList = [
   {
     "Paper ID": 68,
     "Title of the Paper":
-      "Development of a hybrid Deep Learning Model for Car Crash Prediction using Driverâ€™s Behavioral Pattern",
+      "Development of a hybrid Deep Learning Model for Car Crash Prediction using Driver’s Behavioral Pattern",
     "Name of Corresponding Author": "AWOTUNDE JOSEPH BAMIDELE",
   },
   {
@@ -1310,6 +1316,12 @@ export const RegisteredPaperList = [
     "Title of the Paper":
       "Diabetic prediction model Based on Box Cox transformation and optimized autoencoder with svm classification",
     "Name of Corresponding Author": "Dr Bhupendra verma ,Dr Mahesh pawar",
+  },
+  {
+    "Paper ID": 84,
+    "Title of the Paper":
+      "Employee Salary Satisfaction Analysis Using Machine Learning",
+    "Name of Corresponding Author": "Dr. Suruchi Pandey",
   },
   {
     "Paper ID": 86,
@@ -1329,10 +1341,22 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "Harshitha Navya Chennu",
   },
   {
+    "Paper ID": 100,
+    "Title of the Paper":
+      "An Improved Fabric Defect Detection Using Machine  Learning",
+    "Name of Corresponding Author": "Jenil Dhorajiya",
+  },
+  {
     "Paper ID": 108,
     "Title of the Paper":
       "Advancing Gender, Age and Ethnicity with YOLOv5 and Transfer Learning",
     "Name of Corresponding Author": "Varun Bhattacharya",
+  },
+  {
+    "Paper ID": 111,
+    "Title of the Paper":
+      "A Framework for Movie Recommendation Using Content-Based Filtering",
+    "Name of Corresponding Author": "Vishal Paranjape",
   },
   {
     "Paper ID": 126,
@@ -1359,10 +1383,24 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "Dr. Lenin Kanagasabai",
   },
   {
+    "Paper ID": 146,
+    "Title of the Paper":
+      "ITD-ML: Improving Diagnosis Capabilities for Thyroid Disease Using Machine Learning",
+    "Name of Corresponding Author":
+      "Satyabrata Dash, Praveen Gupta, Rakesh Nayak, Umashankar Ghugar",
+  },
+  {
     "Paper ID": 147,
     "Title of the Paper":
       "Sign Language Translation into Text using Deep Learning",
     "Name of Corresponding Author": "Lahari Darsi",
+  },
+  {
+    "Paper ID": 150,
+    "Title of the Paper":
+      "Sustainable Internet of things (IoT) for restricted items using a dynamic sleeping wake-up approach",
+    "Name of Corresponding Author":
+      "Megha Mishra, Vishnu Kumar Mishra, Bhupesh Dewangan, Kimidi Parijatha",
   },
   {
     "Paper ID": 155,
@@ -1375,6 +1413,13 @@ export const RegisteredPaperList = [
     "Title of the Paper":
       "IoT based Car Accident Detection and Emergency Communication System using GSM and RF along with Audiovisual Assistant",
     "Name of Corresponding Author": "Sachi Choudhary",
+  },
+  {
+    "Paper ID": 178,
+    "Title of the Paper":
+      "Differentiation of music genre from an audio file using Neural Networks",
+    "Name of Corresponding Author":
+      "Vishal Singh, Tanupriya Choudhury, Ayan Sar, Ketan  Kotecha, Pushker Jain",
   },
   {
     "Paper ID": 181,
@@ -1401,9 +1446,26 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "Purvi Prajapati",
   },
   {
+    "Paper ID": 216,
+    "Title of the Paper":
+      "An Efficient Machine Learning Technique for Spectrum Resource Allocation in Cognitive Radio",
+    "Name of Corresponding Author": "Rovin Tiwari",
+  },
+  {
+    "Paper ID": 217,
+    "Title of the Paper":
+      "An Efficient Channel Prediction Using Artificial Neural Network Deep Learning Technique in Cognitive Radio",
+    "Name of Corresponding Author": "Rovin Tiwari",
+  },
+  {
     "Paper ID": 218,
     "Title of the Paper": "Group Dynamics and Its Role in IT Projects Timeline",
     "Name of Corresponding Author": "JASLEEN RIHAN",
+  },
+  {
+    "Paper ID": 218,
+    "Title of the Paper": "Group Dynamics and its Role in IT Projects Timeline",
+    "Name of Corresponding Author": "Jasleen Rihan",
   },
   {
     "Paper ID": 219,
@@ -1416,6 +1478,12 @@ export const RegisteredPaperList = [
     "Title of the Paper":
       "Analysis of Object Identification and Classification using YOLO and RCNN",
     "Name of Corresponding Author": "Jagdish Chandra Patni",
+  },
+  {
+    "Paper ID": 228,
+    "Title of the Paper":
+      "Selection of optimal structural ceramic materials using various multi-criteria decision-making techniques for diverse applications.",
+    "Name of Corresponding Author": "RAJESH SHARMA",
   },
   {
     "Paper ID": 233,
@@ -1451,6 +1519,12 @@ export const RegisteredPaperList = [
       "Prof. Priya N. Parkhi, Amna Patel, Dhruvraj Solanki, Himesh Ganwani, Manav Anandani",
   },
   {
+    "Paper ID": 294,
+    "Title of the Paper":
+      "Deep Learning Based Supraventricular Arrhythmia classification",
+    "Name of Corresponding Author": "Dr. L. V. Rajani kumari",
+  },
+  {
     "Paper ID": 295,
     "Title of the Paper":
       "Navigating the Shopping Landscape: A Comparative Analysis of E-Commerce and Traditional Retail in the Digital Age",
@@ -1467,6 +1541,16 @@ export const RegisteredPaperList = [
     "Title of the Paper":
       "A rational cooperative foraging based grey wolf optimizer",
     "Name of Corresponding Author": "Shirish Govind Adam",
+  },
+  {
+    "Paper ID": 306,
+    "Title of the Paper": "OPERATED VIRTUAL EMBEDED REALITY",
+    "Name of Corresponding Author": "SAURABH SATAPATHY",
+  },
+  {
+    "Paper ID": 306,
+    "Title of the Paper": "OPERATED VIRTUAL EMBEDED REALITY",
+    "Name of Corresponding Author": "SAURABH SATAPATHY",
   },
   {
     "Paper ID": 307,
@@ -1493,6 +1577,24 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "Dr. Pooja",
   },
   {
+    "Paper ID": 319,
+    "Title of the Paper":
+      "Ranking of Requirements of an Information System using Fuzzy TOPSIS  with Incomplete Preference Relations",
+    "Name of Corresponding Author": "Mohd. Sadiq",
+  },
+  {
+    "Paper ID": 326,
+    "Title of the Paper":
+      "Breast Cancer Prediction: A Comparative Study of Different Machine Learning Algorithms across Multiple Data Sets",
+    "Name of Corresponding Author": "Subhajit Datta",
+  },
+  {
+    "Paper ID": 326,
+    "Title of the Paper":
+      "Breast Cancer Prediction: A Comparative Study of Different Machine Learning Algorithms across Multiple Data Sets",
+    "Name of Corresponding Author": "Subhajit Datta",
+  },
+  {
     "Paper ID": 328,
     "Title of the Paper": "Transformer-Based Word Association of Marathi Text",
     "Name of Corresponding Author": "Ms. Kirti Pankaj Kakde",
@@ -1516,6 +1618,12 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "Dr. Nagappan Govindarajan",
   },
   {
+    "Paper ID": 343,
+    "Title of the Paper":
+      "An Approach to Predict Breast Cancer using Ensemble Learning Technique",
+    "Name of Corresponding Author": "Vaishnavi Raju Chandgadkar",
+  },
+  {
     "Paper ID": 344,
     "Title of the Paper":
       "A New Modified Approach of Linear Regression and Decision Tree Modeling for Enhancement of the Accuracy",
@@ -1523,10 +1631,41 @@ export const RegisteredPaperList = [
       "Kalpana Hazarika, Shubhi Srivastava, Sushil Kumar,  Uday Varshneya",
   },
   {
+    "Paper ID": 344,
+    "Title of the Paper":
+      "A New Modified Approach of Linear Regression and Decision Tree Modeling  for Enhancement of the Accuracy",
+    "Name of Corresponding Author":
+      "Kalpana Hazarika, Shubhi Srivastava,  Sushil Kumar, Uday Varshneya",
+  },
+  {
     "Paper ID": 354,
     "Title of the Paper":
       "Multi layer Perceptron: Architecture optimization for classifying anemia patients",
     "Name of Corresponding Author": "Rajen Vohra",
+  },
+  {
+    "Paper ID": 359,
+    "Title of the Paper":
+      "Operational Excellence Deciphered Lessons from the Oracles of Order and Organization.",
+    "Name of Corresponding Author": "Pooja Sapra",
+  },
+  {
+    "Paper ID": 362,
+    "Title of the Paper":
+      "Timeless Techniques and Their Integration into the Tomes of Today's Business Strategies.",
+    "Name of Corresponding Author": "Amit Barve",
+  },
+  {
+    "Paper ID": 363,
+    "Title of the Paper":
+      "Networks, Nodes, and Nebulas Navigating the Complex World of Modern Business Strategies.",
+    "Name of Corresponding Author": "M Kumaresan",
+  },
+  {
+    "Paper ID": 365,
+    "Title of the Paper":
+      "Corporate Cultures and Craft The Chronicles of Business Evolution and Adaptation.",
+    "Name of Corresponding Author": "S K Manju Bhargavi",
   },
   {
     "Paper ID": 372,
@@ -1547,6 +1686,12 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "DURGESH KUMAR KESHAR",
   },
   {
+    "Paper ID": 377,
+    "Title of the Paper":
+      "Systematic Structures and Silicon Stories Shaping the Saga of Software Solutions.",
+    "Name of Corresponding Author": "Bhuvana J",
+  },
+  {
     "Paper ID": 378,
     "Title of the Paper":
       "A Fibonacci Based MDS Code and Its Application to a Secret Sharing Scheme.",
@@ -1559,16 +1704,34 @@ export const RegisteredPaperList = [
     "Name of Corresponding Author": "AKSHITH JOBIRIN S",
   },
   {
+    "Paper ID": 382,
+    "Title of the Paper":
+      "From Browsers to Bots Unveiling the Power of Bits in Bridging Business Gaps.",
+    "Name of Corresponding Author": "Samannoy Baruah",
+  },
+  {
     "Paper ID": 383,
     "Title of the Paper":
       "Chatbot based Ticket Booking System for all modes of Transport",
     "Name of Corresponding Author": "Vinodhkumar S",
   },
   {
+    "Paper ID": 384,
+    "Title of the Paper":
+      "Blending Synthesized Strategies with Proven Practices for Achieving Business Success.",
+    "Name of Corresponding Author": "Swapnil Parikh",
+  },
+  {
     "Paper ID": 385,
     "Title of the Paper":
       "A MATLAB / Simulink Implementation of Closed Loop Speed Control of PMBLDC and PMSM Motors using Fuzzy Logic Controller for EV Applications",
     "Name of Corresponding Author": "MAHAMMADSOAIB SAIYAD",
+  },
+  {
+    "Paper ID": 391,
+    "Title of the Paper":
+      "Mapping the Tangible Touchpoints of Modern Technological Triumphs in Management Systems.",
+    "Name of Corresponding Author": "Bhabajyoti Saikia",
   },
   {
     "Paper ID": 397,
@@ -1617,6 +1780,12 @@ export const RegisteredPaperList = [
       "Impact of Machine Learning Applications on  Water Quality Prediction",
     "Name of Corresponding Author": "Mallika",
   },
+  {
+    "Paper ID":
+      "Pls add one paper details sent to you in mail through sisodia sir",
+    "Title of the Paper": "",
+    "Name of Corresponding Author": "",
+  },
 ];
 
 export const KeynoteSpeaker = [
@@ -1640,5 +1809,26 @@ export const KeynoteSpeaker = [
     deg: "Professor",
     uni: "Communications & Computer Engineering Faculty of Information & Communication Technology University of Malta, Msida",
     img: "/profIng.jpg",
+  },
+  {
+    role: "Guest of Honor",
+    name: "Prof. Ram Kumar Kakani",
+    deg: "Director",
+    uni: "IIM Raipur",
+    img: "/ram.png",
+  },
+  {
+    role: "Guest of Honor",
+    name: "Prof. Anupam Shukla",
+    deg: "Director",
+    uni: "SVNIT Surat",
+    img: "/anupam.jpg",
+  },
+  {
+    role: "",
+    name: "Prof. Brij Bhooshan Gupta",
+    deg: "",
+    uni: "Aisa University, Wufeng, Taichung 41354, Taiwan",
+    img: "/bhooshan.jpg",
   },
 ];
