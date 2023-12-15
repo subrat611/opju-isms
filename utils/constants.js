@@ -24,6 +24,10 @@ export const navLinks = [
     path: "/keynote-speaker",
   },
   {
+    name: "Guest",
+    path: "/guest",
+  },
+  {
     name: "sponsors",
     path: "/sponsors",
   },
@@ -1790,25 +1794,35 @@ export const RegisteredPaperList = [
 
 export const KeynoteSpeaker = [
   {
-    role: "Guest for Inaugural",
+    role: "",
+    name: "Prof. Ing. Carl James Debono",
+    deg: "Professor",
+    uni: "Communications & Computer Engineering Faculty of Information & Communication Technology University of Malta, Msida",
+    img: "/profIng.jpg",
+  },
+  {
+    role: "",
+    name: "Prof. Brij Bhooshan Gupta",
+    deg: "",
+    uni: "Aisa University, Wufeng, Taichung 41354, Taiwan",
+    img: "/bhooshan.jpg",
+  },
+];
+
+export const guestOfHonor = [
+  {
+    role: "Guest for Honor",
     name: "Dr. Lalit Garg",
     deg: "",
     uni: "University of Malta, Information & Comm. Tech., Malta",
     img: "/lalit.png",
   },
   {
-    role: "Guest for Inaugural",
+    role: "Guest for Honor",
     name: "Prof Rajiv Prakash",
     deg: "",
     uni: "Director of IIT Bhilai",
     img: "/profrajiv.png",
-  },
-  {
-    role: "",
-    name: "Prof. Ing. Carl James Debono",
-    deg: "Professor",
-    uni: "Communications & Computer Engineering Faculty of Information & Communication Technology University of Malta, Msida",
-    img: "/profIng.jpg",
   },
   {
     role: "Guest of Honor",
@@ -1825,10 +1839,24 @@ export const KeynoteSpeaker = [
     img: "/anupam.jpg",
   },
   {
-    role: "",
-    name: "Prof. Brij Bhooshan Gupta",
+    role: "Guest of Honor",
+    name: "Dr. Pradeep Kumar Sinha",
     deg: "",
-    uni: "Aisa University, Wufeng, Taichung 41354, Taiwan",
-    img: "/bhooshan.jpg",
+    uni: "Vice Chancellor & Director of International Institute of Information Technology (IIIT), Naya Raipur",
+    img: "/pradeep.jpg",
   },
+  {
+    role: "Guest of Honor",
+    name: "Dr. B.K. Sthapak",
+    deg: "",
+    uni: "Former Principal Director, OPJIT, Raigarh and Former Vice Chancellor, CSVTU Bhilai",
+    img: "/bk.jpg",
+  },
+  {
+    role: "Guest of Honor",
+    name: "Mr. Nilesh Shah",
+    deg: "",
+    uni: "Vice President Jindal Steel & Power Ltd. Raipur",
+    img: "/nilesh.jpg"
+  }
 ];

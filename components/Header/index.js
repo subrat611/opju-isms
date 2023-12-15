@@ -1,3 +1,4 @@
+import Link from "next/link";
 import styles from "./style.module.css";
 
 const Header = () => {
@@ -42,6 +43,16 @@ const Header = () => {
           Submit your paper
         </a>
       </button>
+      <div className={styles.scroll_left}>
+        <a
+          target="_blank"
+          href="/Paper_ID.pptx"
+          download
+          className="fs-5 fw-semibold text-warning"
+        >
+          Download Template for paper presentation
+        </a>
+      </div>
     </header>
   );
 };
